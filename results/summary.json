@@ -1,0 +1,7 @@
+{
+  "rows": 350,
+  "unique_profiles": 170,
+  "churn_rate": 0.3543,
+  "best_k": 4,
+  "silhouette_k4": 0.543
+}

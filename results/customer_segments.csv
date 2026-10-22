@@ -1,0 +1,5 @@
+Segment,Customers,Avg_spend,Avg_items,Avg_rating,Avg_days_inactive,Avg_age,Churn_rate,Main_tier,Segment_name
+0,61,473.46,8.48,3.33,33.38,39.41,0.54,Bronze,Budget shoppers
+1,54,1302.9,17.44,4.66,19.54,30.06,0.11,Gold,VIP spenders
+2,28,689.31,11.68,3.93,47.21,29.11,1.0,Silver,Lapsed mid spenders
+3,27,801.33,11.59,4.18,16.26,34.04,0.0,Silver,Engaged mid spenders
